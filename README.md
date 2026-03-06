@@ -1,21 +1,37 @@
-<h1>👋 Hi, I'm Adam Saleh</h1>
+<h1 align="center">👋 Hi, I'm Adam Saleh</h1>
 
-<p>
-⚽ I love playing soccer and improving my skills every day.<br>
-🇰🇷 I was born in Korea.<br>
-🎂 My birthday is September 20, 2014.<br>
-🏫 I study at ASP Songdo.<br>
+<p align="center">
+⚽ Student | 📚 Learner | 🌍 Dreamer
 </p>
 
-<h2>🎯 My Goal</h2>
+<hr>
+
+<h2>👨‍💻 About Me</h2>
 <p>
-My goal is to become a better soccer player and keep improving through practice and hard work.
+Hello! My name is <strong>Adam Saleh</strong>. I am a student at <strong>ASP Songdo</strong> in South Korea 🇰🇷.  
+I enjoy learning new things, working hard in school, and improving my soccer skills.  
+I always try my best to grow, stay disciplined, and become better every day.
 </p>
 
-<h2>⭐ About Me</h2>
 <ul>
-  <li>⚽ Soccer player</li>
-  <li>🇰🇷 From Korea</li>
-  <li>📚 Student at ASP Songdo</li>
-  <li>💪 Always trying to improve</li>
+<li>🎂 Birthday: September 20, 2014</li>
+<li>🇰🇷 Born in Korea</li>
+<li>🏫 School: ASP Songdo</li>
+<li>⚽ Passion: Soccer</li>
 </ul>
+
+<hr>
+
+<h2>🎯 My Goals</h2>
+
+<ul>
+<li>📚 Improve my studying habits and focus more in class</li>
+<li>📝 Do better on tests and continue learning new things</li>
+<li>⚽ Become a better and more skilled soccer player</li>
+</ul>
+
+<hr>
+
+<p align="center">
+💡 <em>"I will try to lock in during classes."</em>
+</p>
