@@ -1,2 +1,2 @@
 # portfolio
-My name is Adam Saleh and Im from korea Asp Songdo
+My name is Adam Saleh and Im from Korea Asp Songdo
