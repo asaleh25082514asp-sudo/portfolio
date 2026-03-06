@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Adam Saleh</h1>
 
 <p align="center">
-⚽ Student | 📚 Learner | 🌍 Dreamer
+ ⚽️Play socer | 📚 Student
 </p>
 
 <hr>
