@@ -1,114 +1,85 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-<title>Adam Saleh Portfolio</title>
-</head>
-
 <body>
 
-<h1 align="center">👋 Hi, I'm Adam Saleh</h1>
+<img width="640" height="211" alt="image" src="https://github.com/user-attachments/assets/1dff07b4-b0e2-4189-b2eb-1cfc441d93c1" />
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/1dff07b4-b0e2-4189-b2eb-1cfc441d93c1" width="450">
-</p>
+<h1 style="text-align:center;"><font style="color:Maroon;">👋 Adam Saleh Portfolio 👋</font></h1>
 
-<p align="center">
-⚽ Play soccer | 📚 Student
-</p>
+<p><font style="color:Black;">
+This portfolio is about myself including my age, school, hobbies, goals, and future plans.
+</font></p>
 
-<hr>
+<h2><font style="color:Darkblue;">Introduction</font></h2>
 
-<h2>👨‍💻 About Me</h2>
+<h4>
+Hello everyone! My name is Adam Saleh from ASP Songdo.<br>
+I am 11 years old and I enjoy playing soccer with my friends Isaac, Greg, and Alvin.<br>
+I also like doing mukbang with my friends 🍜🍺😊.<br>
+This is my personal portfolio website.
+</h4>
 
-<p>
-Hello! My name is <strong>Adam Saleh</strong>.<br><br>
-
-I am 11 years old and I live in Korea.<br><br>
-
-I study at <strong>ASP Songdo</strong>.<br><br>
-
-I enjoy playing soccer and spending time with my friends Isaac, Greg, and Alvin.<br><br>
-
-I also enjoy doing mukbang with friends 
-<span style="font-size:28px;">🍜 🍺 😊</span>
-</p>
+<h2><font style="color:Darkblue;">👨 About Me</font></h2>
 
 <ul>
-<li>Birthday: September 20, 2014</li>
-<li>Born in Korea</li>
-<li>🏫 School: ASP Songdo</li>
-<li>⚽ Hobby: Soccer</li>
-<li>🎮 Playing Rivals hardplay</li>
+<li>AGE : 11 years old</li>
+<li>NAME : Adam Saleh</li>
+<li>SCHOOL : ASP Songdo</li>
+<li>HOBBIES : Playing Soccer, Playing games</li>
+<li>PERSONALITY : Friendly, Competitive, Hardworking</li>
+<li>FAVORITE SUBJECT : PE (Physical Education)</li>
 </ul>
 
-<hr>
-
-<h2>🎯 My Goals</h2>
+<h2><font style="color:Darkblue;">🎯 2026 Goals</font></h2>
 
 <ul>
-<li>📚 Get over 90% on tests</li>
-<li>📝 Finish homework before deadlines</li>
-<li>⚽ Become a more skilled soccer player</li>
-<li>🏫 Focus more during class</li>
+<li>ACADEMIC GOALS : Get over 90% on tests</li>
+<li>PERSONAL GOALS : Improve my soccer skills and focus more in class</li>
 </ul>
 
-<hr>
-
-<h2>🏆 My Best Work</h2>
-
-<p>
-Some of my best work includes improving my soccer skills, completing school projects, 
-and learning how to build my own website portfolio using HTML.
-</p>
-
-<hr>
-
-<h2>💪 Skills & Strengths</h2>
+<h2><font style="color:Darkblue;">🔥 My Best Works</font></h2>
 
 <ul>
-<li>⚽ Playing soccer</li>
-<li>💻 Learning technology and coding</li>
-<li>🤝 Being a good teammate</li>
-<li>📚 Working hard in school</li>
+<li>Improving my soccer skills through practice</li>
+<li>Learning how to build my own website using HTML</li>
+<li>Completing school projects successfully</li>
 </ul>
 
-<hr>
-
-<h2>📈 Challenges & Growth</h2>
-
-<p>
-One challenge I faced was improving my soccer skills. At first it was hard, but by practicing 
-more and listening to feedback from others, I became a better player and learned the importance 
-of patience and hard work.
-</p>
-
-<hr>
-
-<h2>🎨 My Hobbies</h2>
+<h2><font style="color:Darkblue;">💪 Skills & Strength</font></h2>
 
 <ul>
-<li>Playing sports</li>
-<li>Drawing cartoons</li>
-<li>Building robots</li>
+<li>Soccer dribbling and teamwork</li>
+<li>Learning technology and coding</li>
+<li>Working hard in school</li>
+<li>Being a good teammate and friend</li>
+</ul>
+
+<h2><font style="color:Darkblue;">⚔️ Challenge & Growth</font></h2>
+
+<ul>
+<li>Improving soccer skills through practice</li>
+<li>Learning to focus more during class</li>
+<li>Working harder on homework before deadlines</li>
+<li>Learning new coding skills like HTML</li>
+</ul>
+
+<h2><font style="color:Darkblue;">🎨 My Hobbies</font></h2>
+
+<ul>
+<li>Playing soccer</li>
+<li>Playing video games</li>
+<li>Doing mukbang with friends</li>
 <li>Watching educational videos</li>
 </ul>
 
-<hr>
+<h2><font style="color:Darkblue;">🔜 Future Plans</font></h2>
 
-<h2>🚀 Future Plans</h2>
-
-<p>
-In the future, I want to continue improving in school and sports. I hope to become very good 
-at soccer and also learn more about technology and coding. One day I want to build bigger 
-projects and maybe even create my own games or apps.
-</p>
-
-<hr>
-
-<p align="center">
-<i>"I will try to lock in during classes."</i>
-</p>
+<ul>
+<li>Become a better soccer player</li>
+<li>Get higher scores in school</li>
+<li>Learn more coding and technology</li>
+<li>Build more websites and projects</li>
+</ul>
 
 </body>
 </html>
