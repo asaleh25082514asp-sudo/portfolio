@@ -7,16 +7,15 @@
 <h1 style="text-align:center;"><font style="color:Maroon;">👋 Adam Saleh Portfolio 👋</font></h1>
 
 <p><font style="color:Black;">
-This portfolio is about myself including my age, school, hobbies, goals, and future plans.
+This portfolio is about me including my birthdate and yes
 </font></p>
 
 <h2><font style="color:Darkblue;">Introduction</font></h2>
 
 <h4>
-Hello everyone! My name is Adam Saleh from ASP Songdo.<br>
+My name is Adam Saleh from ASP Songdo.<br>
 I am 11 years old and I enjoy playing soccer with my friends Isaac, Greg, and Alvin.<br>
-I also like doing mukbang with my friends 🍜🍺😊.<br>
-This is my personal portfolio website.
+I also like doing mukbang with my friends  like jemeni Isaac and Greggy🍜🍺😊.<br>
 </h4>
 
 <h2><font style="color:Darkblue;">👨 About Me</font></h2>
@@ -25,9 +24,8 @@ This is my personal portfolio website.
 <li>AGE : 11 years old</li>
 <li>NAME : Adam Saleh</li>
 <li>SCHOOL : ASP Songdo</li>
-<li>HOBBIES : Playing Soccer, Playing games</li>
-<li>PERSONALITY : Friendly, Competitive, Hardworking</li>
-<li>FAVORITE SUBJECT : PE (Physical Education)</li>
+<li>HOBBIES : My favoirtehobbies are playing Soccer, playing games</li>
+<li>FAVORITE SUBJECT : Pe</li>
 </ul>
 
 <h2><font style="color:Darkblue;">🎯 2026 Goals</font></h2>
@@ -78,7 +76,6 @@ This is my personal portfolio website.
 <li>Become a better soccer player</li>
 <li>Get higher scores in school</li>
 <li>Learn more coding and technology</li>
-<li>Build more websites and projects</li>
 </ul>
 
 </body>
