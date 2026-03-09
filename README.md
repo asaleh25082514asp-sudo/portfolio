@@ -17,7 +17,7 @@ Yeaps.
 <li> Birthday: September 20, 2014</li>
 <li> Born in Korea</li>
 <li>🏫 School: ASP Songdo</li>
-<li>⚽ Passion: Soccer</li>
+<li>⚽ hobby: Soccer</li>
 </ul>
 
 <hr>
@@ -25,13 +25,13 @@ Yeaps.
 <h2>🎯 My Goals</h2>
 
 <ul>
-<li>📚 Improve my studying habits and focus more in class</li>
-<li>📝 Do better on tests and continue learning new things</li>
+<li>📚 Get over 90% on tests and focus more in class</li>
+<li>📝 Do better on finishing homework before deadline </li>
 <li>⚽ Become a better and more skilled soccer player</li>
 </ul>
 
 <hr>
 
 <p align="center">
-💡 <em>"I will try to lock in during classes."</em>
+ <em>"I will try to lock in during classes."</em>
 </p>
