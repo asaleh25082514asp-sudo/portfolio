@@ -4,6 +4,9 @@
 ⚽️ Play soccer | 📚 Student
 </p>
 
+<img width="640" height="211" alt="image" src="https://github.com/user-attachments/assets/1dff07b4-b0e2-4189-b2eb-1cfc441d93c1" />
+
+
 <hr>
 
 <h2>👨‍💻 About Me</h2>
