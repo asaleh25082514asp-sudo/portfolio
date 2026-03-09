@@ -8,9 +8,13 @@
 
 <h2>👨‍💻 About Me</h2>
 <p>
-Hello! My name is <strong>Adam Saleh</strong>. I am from <strong>ASP Songdo</strong> in Korea .  
+Hello! My name is <strong>Adam Saleh</strong>. 
+
+I am from <strong>ASP Songdo</strong> in Korea . 
+
 I play soccer and have 3 good friends named Isaac, Greg, And Alvin and improving my soccer skills.  
 Yeaps.
+
 I also love doing mukbang with friends like Isaac and Greggy🍜🍺
 </p>
 
