@@ -16,12 +16,10 @@ Hello! My name is <strong>Adam Saleh</strong>.<br><br>
 
 I am from <strong>ASP Songdo</strong> in Korea.<br><br>
 
-I play soccer and have 3 good friends named Isaac, Greg, and Alvin and I am improving my soccer skills.<br><br>
-
-Yeaps.<br><br>
+I play soccer and have 3 very good  friends named Isaac, Greg, and Alvin and I am improving my soccer skills.<br><br>
 
 I also love doing mukbang with friends like Isaac and Greggy 
-<span style="font-size:28px;">🍜 🍺 😊</span>
+<span></span> style="font-size:28px;">🍜 🍺 😊</span>
 </p>
 
 <ul>
