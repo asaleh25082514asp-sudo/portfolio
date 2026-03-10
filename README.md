@@ -76,6 +76,3 @@ I also like doing mukbang with my friends  like jemeni Isaac and Greggy🍜🍺�
 <li>Become better at technology </li>
 <li>Get higher scores in school</li>
 </ul>
-
-</body>
-</html>
