@@ -55,7 +55,7 @@ I also like doing mukbang with my friends  like jemeni Isaac and Greggy🍜🍺�
 <li>Being a good teammate in sport/li>
 </ul>
 
-<h2><font style="color:Darkblue;">⚔️ Challenge & Growth</font></h2>
+<h2><font style="color:Darkblue;">⚔️ Challenges</font></h2>
 
 <ul>
 <li>Improving soccer skills through practice</li>
