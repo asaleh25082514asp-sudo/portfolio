@@ -42,6 +42,8 @@ I also like doing mukbang with my friends  like jemeni Isaac and Greggy🍜🍺�
 <ul>
 <li>I once got 8 goals in soccer in asp</li>
 <li>I can type very quickly</li>
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/a60eedc5-8dc5-489b-96fe-390373b36887" />
+
 <li>I can make my own Ai chatbot</li>
 </ul>
 
