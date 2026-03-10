@@ -31,25 +31,24 @@ I also like doing mukbang with my friends  like jemeni Isaac and Greggy🍜🍺�
 <h2><font style="color:Darkblue;">🎯 2026 Goals</font></h2>
 
 <ul>
-<li>ACADEMIC GOALS : Get over 90% on tests</li>
-<li>PERSONAL GOALS : Improve my soccer skills and focus more in class</li>
+<li>School goal : Get over 90% on tests</li>
+<li>Personal goal : Improve my soccer skills and focus more in class</li>
 </ul>
 
 <h2><font style="color:Darkblue;">🔥 My Best Works</font></h2>
 
 <ul>
-<li>Improving my soccer skills through practice</li>
-<li>Learning how to build my own website using HTML</li>
-<li>Completing school projects successfully</li>
+<li>I once got 8 goals in soccer in asp</li>
+<li>I can type very quickly</li>
+<li>I can make my own Ai chatbot</li>
 </ul>
 
 <h2><font style="color:Darkblue;">💪 Skills & Strength</font></h2>
 
 <ul>
-<li>Soccer dribbling and teamwork</li>
-<li>Learning technology and coding</li>
-<li>Working hard in school</li>
-<li>Being a good teammate and friend</li>
+<li>Soccer dribbling</li>
+<li>Working not good at school</li>
+<li>Being a good teammate in sport/li>
 </ul>
 
 <h2><font style="color:Darkblue;">⚔️ Challenge & Growth</font></h2>
@@ -57,8 +56,7 @@ I also like doing mukbang with my friends  like jemeni Isaac and Greggy🍜🍺�
 <ul>
 <li>Improving soccer skills through practice</li>
 <li>Learning to focus more during class</li>
-<li>Working harder on homework before deadlines</li>
-<li>Learning new coding skills like HTML</li>
+<li>Working harder on homework before the deadline</li>
 </ul>
 
 <h2><font style="color:Darkblue;">🎨 My Hobbies</font></h2>
@@ -67,15 +65,14 @@ I also like doing mukbang with my friends  like jemeni Isaac and Greggy🍜🍺�
 <li>Playing soccer</li>
 <li>Playing video games</li>
 <li>Doing mukbang with friends</li>
-<li>Watching educational videos</li>
+<li>Watching Blue lock</li>
 </ul>
 
 <h2><font style="color:Darkblue;">🔜 Future Plans</font></h2>
 
 <ul>
-<li>Become a better soccer player</li>
+<li>Become better at technology </li>
 <li>Get higher scores in school</li>
-<li>Learn more coding and technology</li>
 </ul>
 
 </body>
