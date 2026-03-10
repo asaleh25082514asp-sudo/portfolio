@@ -10,7 +10,7 @@
 This portfolio is about me including my birthdate and yes
 </font></p>
 
-<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/702fcdc8-484d-4088-8cc4-5b8c5e239d24" />
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/702fcdc8-484d-4088-8cc4-5b8c5e239d24" />
 
 
 <h2><font style="color:Darkblue;">Introduction</font></h2>
